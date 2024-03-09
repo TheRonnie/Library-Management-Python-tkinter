@@ -6,7 +6,7 @@
 
 I'll be building a Library Book Management System using Python's Tkinter library for the graphical user interface (GUI) and SQLite for the backend database. The application will allow users to perform CRUD operations (Create, Read, Update, Delete) on a database of books.
 
-Here's a breakdown of what the application will feature:
+Here's a breakdown of what the application will feature: 
 
 1. **Frontend GUI with Tkinter**: Tkinter is a standard GUI toolkit for Python. You'll be using it to create the graphical interface for your Library Book Management System.
 
